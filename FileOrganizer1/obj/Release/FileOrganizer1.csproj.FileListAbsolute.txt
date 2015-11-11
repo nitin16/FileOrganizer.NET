@@ -1,0 +1,5 @@
+C:\__Source\node\FileOrganizer1\FileOrganizer1\bin\Release\FileOrganizer1.exe.config
+C:\__Source\node\FileOrganizer1\FileOrganizer1\bin\Release\FileOrganizer1.exe
+C:\__Source\node\FileOrganizer1\FileOrganizer1\bin\Release\FileOrganizer1.pdb
+C:\__Source\node\FileOrganizer1\FileOrganizer1\obj\Release\FileOrganizer1.exe
+C:\__Source\node\FileOrganizer1\FileOrganizer1\obj\Release\FileOrganizer1.pdb

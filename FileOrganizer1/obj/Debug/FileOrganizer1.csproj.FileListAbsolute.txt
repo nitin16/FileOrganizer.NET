@@ -1,0 +1,6 @@
+C:\__Source\node\FileOrganizer1\FileOrganizer1\bin\Debug\FileOrganizer1.exe.config
+C:\__Source\node\FileOrganizer1\FileOrganizer1\obj\Debug\FileOrganizer1.csprojResolveAssemblyReference.cache
+C:\__Source\node\FileOrganizer1\FileOrganizer1\bin\Debug\FileOrganizer1.exe
+C:\__Source\node\FileOrganizer1\FileOrganizer1\bin\Debug\FileOrganizer1.pdb
+C:\__Source\node\FileOrganizer1\FileOrganizer1\obj\Debug\FileOrganizer1.exe
+C:\__Source\node\FileOrganizer1\FileOrganizer1\obj\Debug\FileOrganizer1.pdb
